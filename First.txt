@@ -1,2 +1,4 @@
 Git editor
 learning workflow
+.git add
+.git commit
