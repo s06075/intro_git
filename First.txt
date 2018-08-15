@@ -2,4 +2,5 @@ Git editor
 learning workflow
 .git add
 .git commit
-git rm
+.git rm
+.git status
